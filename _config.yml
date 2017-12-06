@@ -14,12 +14,12 @@ url: https://github.com/zxixia/jekyll-xixia
 baseurl: 'https://flyzaway.github.io/'
 ## default date_format
 date_format: 
-  title: "%B-%-d-%Y"
-  archive: "%b"
-  categories: "%b-%Y"
+  title: "%y年-%m月-%d日"
+  archive: "%m月"
+  categories: "%y年-%m月"
   tag: "%b-%Y"
 # Language
-lan: "en" 
+lan: "cn" 
 
 paginate: 10
 
