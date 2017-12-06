@@ -15,6 +15,7 @@ description: The read me page of Jekyll.
 6. 修改_config.yml中的baseurl为自己的仓库名字
 7. git add ,commit, push
 
-#　参考链接
-# [Jekyll](https://jekyllrb.com/)
-# [Jekyll-模板](http://jekyllthemes.org/themes/xixia/)
+---
+# 参考链接
+[Jekyll](https://jekyllrb.com/)
+[Jekyll-模板](http://jekyllthemes.org/themes/xixia/)
