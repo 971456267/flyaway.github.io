@@ -11,7 +11,7 @@ url: https://github.com/zxixia/jekyll-xixia
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
 #baseurl: '/jekyll-xixia'
-baseurl:https://flyzaway.github.io/
+baseurl: 'https://flyzaway.github.io/'
 ## default date_format
 date_format: 
   title: "%B-%-d-%Y"
