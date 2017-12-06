@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "weclome!"
+title:  "github.io 入门"
 date:   2017-12-06
 categories: 萌新入门
 tags: 入门
@@ -17,5 +17,5 @@ description: The read me page of Jekyll.
 
 ---
 # 参考链接
-[Jekyll](https://jekyllrb.com/)
-[Jekyll-模板](http://jekyllthemes.org/themes/xixia/)
+1.[Jekyll](https://jekyllrb.com/)
+2.[Jekyll-模板](http://jekyllthemes.org/themes/xixia/)
