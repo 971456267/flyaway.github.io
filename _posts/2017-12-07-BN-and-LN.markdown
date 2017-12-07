@@ -6,6 +6,7 @@ categories:	deeplearning
 tags:	nerual net training tricks
 
 ---
+$$\sum_{i=1}^n a_i = 0$$
 ## BN层
 ### 优点
 1. 加速收敛 
