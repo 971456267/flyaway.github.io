@@ -1,22 +1,22 @@
 ---
-layout:post
-title:batchnormalization,layernormalization
-date:2017-12-07
-categories:deeplearning
-tags:nerual net training tricks
+layout:	post
+title:	batchnormalization,layernormalization
+date:	2017-12-07
+categories:	deeplearning
+tags:	nerual net training tricks
 
-----
-##BN层
-###优点
+---
+## BN层
+### 优点
 1. 加速收敛 
 2. 控制过拟合，可以少用或不用Dropout和正则 
 3. 降低网络对初始化权重不敏感
 4. 允许使用较大的学习率
-###缺点
+### 缺点
 1. 对batch大小有敏感
 2. 直接施加在RNN结构效果不明显，有相关研究论文的改进tricks，比如对与当前时间步的处理：输入的激活值和上衣时间步的输出都使用BN，然后相加
 
-##LN层
-###优点
+## LN层
+### 优点
 1. 解决BN对minibatch大小敏感问题
 1. 解决BN难使用在RNN等结构问题
