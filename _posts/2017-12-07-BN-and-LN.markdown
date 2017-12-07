@@ -3,7 +3,7 @@ layout:	post
 title:	batchnormalization,layernormalization
 date:	2017-12-07
 categories:	deeplearning
-tags:	nerual net training tricks
+tags:	nerual_net_training_tricks
 
 ---
 $$\sum_{i=1}^n a_i=0$$
