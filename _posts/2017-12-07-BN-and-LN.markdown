@@ -6,12 +6,9 @@ categories:	deeplearning
 tags:	nerual_net_training_tricks
 
 ---
-$$\sum_{i=1}^n a_i=0$$
-$$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 $$
-$$\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}$$
-
----
 ## BN层
+对每个神经元做归一化(cnn是对每个feature map做归一化)，主要是为了解决internal covariate shift的问题。
+主要是通过使用一个batch里面的数据对每个隐藏层神经元的输入和（a_i = w_i * h）做归一化
 ### 优点
 1. 加速收敛 
 2. 控制过拟合，可以少用或不用Dropout和正则 
@@ -22,6 +19,12 @@ $$\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}$$
 2. 直接施加在RNN结构效果不明显，有相关研究论文的改进tricks，比如对与当前时间步的处理：输入的激活值和上衣时间步的输出都使用BN，然后相加
 
 ## LN层
+LayerNormalization:在层规范化中，所有的隐藏元共享同样的规范化项 μ 和 σ，不同的训练样本就会有不同的规范化项。
+所以LN对mini_batch的大小是不敏感的。
 ### 优点
 1. 解决BN对minibatch大小敏感问题
 1. 解决BN难使用在RNN等结构问题
+
+---
+感觉不管BN还是LN，都是为了限制神经元的输出值，使其符合一定的分布。可以看出，为了得到均值和方差，
+BN采用了不同batch中不同的输入数据来计，LN采用了同一层上神经元来计算。
