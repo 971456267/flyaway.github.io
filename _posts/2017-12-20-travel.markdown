@@ -42,4 +42,6 @@ description: 毕业旅行
 5. 小老板海苔很好次～
 6. 海岛真是美呐～
 
-![](fengmian.jpeg) 
+---
+##　图片
+![](./fengmian.jpeg) 
