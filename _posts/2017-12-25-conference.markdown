@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "机器学习相关会议"
-date: 2017-12-25
-categories:机器学习
-tags：会议
-description:机器学习，人工智能相关会议介绍
+title:  "机器学习相关会议"
+date:   2017-12-25
+categories: 机器学习
+tags: 会议
+description: 机器学习，人工智能相关会议介绍
 
 ---
 1. NIPS(Conference and Workshop on Nerual Information Processing Systems),神经信息处理系统大会，是一个关于机器学习和
@@ -32,19 +32,21 @@ description:机器学习，人工智能相关会议介绍
 
 ---
 ## 参考
-顶级或者高水平会议：
-机器学习领域：ICML, NIPS,COLT,ECML
-计算机视觉与机器学习混合：CVPR,ICCV,ECCV
-机器学习与数据挖掘大杂烩：AAAI,IJCAI
-主要是数据挖掘领域：KDD,SDM,ICDM
-其他机器学习领域比较知名的：UAI,AISTATS
-其他数据挖掘领域比较知名的：CIKM,PKDD主要是数据库方向的，部分包含机器学习与数据挖掘：SIGMOD,VLDB，ICDE
-交叉领域：WWW,SIGIR
-顶级或者高水平期刊：
-机器学习相关领域：
-TPAMI, IJCV,JMLR
-数据挖掘相关领域：
-TKDE,TKDD,TIST,TODS,TOIS,KIS
+
+顶级或者高水平会议
+
+1. 机器学习领域：ICML, NIPS,COLT,ECML
+2. 计算机视觉与机器学习混合：CVPR,ICCV,ECCV
+3. 机器学习与数据挖掘大杂烩：AAAI,IJCAI
+4. 主要是数据挖掘领域：KDD,SDM,ICDM
+5. 其他机器学习领域比较知名的：UAI,AISTATS
+6. 其他数据挖掘领域比较知名的：CIKM,PKDD主要是数据库方向的，部分包含机器学习与数据挖掘：SIGMOD,VLDB，ICDE
+7. 交叉领域：WWW,SIGIR
+
+顶级或者高水平期刊
+
+1. 机器学习相关领域：TPAMI, IJCV,JMLR
+2. 数据挖掘相关领域：TKDE,TKDD,TIST,TODS,TOIS,KIS
 
 作者：Darren Guo
 链接：https://www.zhihu.com/question/20224890/answer/136485243
