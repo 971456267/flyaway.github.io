@@ -5,8 +5,9 @@ date:   2017-12-25
 categories: 机器学习
 tags: 会议
 description: 机器学习，人工智能相关会议介绍
-
 ---
+
+## 会议简介
 1. NIPS(Conference and Workshop on Nerual Information Processing Systems),神经信息处理系统大会，是一个关于机器学习和
 计算神经科学的国际会议，每年12月份举行。
 
