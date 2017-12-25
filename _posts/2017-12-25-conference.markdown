@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "xxxx"
-date:   2017-12-20
-categories: 旅游
-tags: 
-description: 毕业旅行
-
+title:  "机器学习相关会议"
+date:   2017-12-25
+categories: 机器学习
+tags: 会议
+description: 机器学习/人工智能相关会议介绍
 ---
 
 ## 会议简介
