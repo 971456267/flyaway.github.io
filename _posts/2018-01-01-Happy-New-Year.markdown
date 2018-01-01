@@ -6,7 +6,8 @@ categories: Happy New Year
 tags: 
 description: 新年快乐呀！！！
 ---
-<audio autoplay="autoplay"><source = src="http://music.163.com/#/song?id=28692519" type="audio/mp3"></audio>
+
+<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?sid=28692519&type=2&auto=0&width=320&height=66" type="application/x-shockwave-flash"></object> 
 
 ## 出发准备
 1. 护照
