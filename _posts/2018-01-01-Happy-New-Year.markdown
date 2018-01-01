@@ -5,9 +5,8 @@ date:   2018-01-01
 categories: Happy New Year
 tags: 
 description: 新年快乐呀！！！
-
-<audio autoplay="autoplay"><source = src="http://music.163.com/#/song?id=28692519" type="audio/mp3"></audio>
 ---
+<audio autoplay="autoplay"><source = src="http://music.163.com/#/song?id=28692519" type="audio/mp3"></audio>
 ## 出发准备
 1. 护照
 2. 签证（可落地签，2400 Baht)，淘宝商家百程旅行较靠谱
