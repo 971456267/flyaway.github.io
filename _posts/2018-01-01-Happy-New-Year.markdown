@@ -6,12 +6,8 @@ categories: Happy New Year
 tags: 
 description: 新年快乐呀！！！
 ---
-<embed autostart="true" hidden="true" loop="true" src="http://music.163.com/#/song?id=28692519"></embed>
+<audio autoplay="autoplay"><source = src="http://music.163.com/#/song?id=28692519" type="audio/mp3"></audio>
 
-作者：不二
-链接：https://www.zhihu.com/question/50741481/answer/138946224
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ## 出发准备
 1. 护照
 2. 签证（可落地签，2400 Baht)，淘宝商家百程旅行较靠谱
