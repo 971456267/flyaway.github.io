@@ -22,14 +22,7 @@ RankLib是一个使用java实现的Learning to rank的算法库，主要实现�
 8. Random Forests
 RankLib同时也实现了信息检索领域的评测函数，MAP，NDCG.
 
-### data Format
-<line> .=. <target> qid:<qid> <feature>:<value> <feature>:<value> ... <feature>:<value> # <info>
-<target> .=. <positive integer>
-<qid> .=. <positive integer>query id
-<feature> .=. <positive integer>
-<value> .=. <float>
-<info> .=. <string>
-
+---
 ## Learn to Rank
 [链接](https://liam0205.me/2016/07/10/a-not-so-simple-introduction-to-lambdamart/)
 
@@ -41,6 +34,7 @@ LTR 算法通常有三种手段，分别是：Pointwise、Pairwise 和 Listwise�
 
 ### Listwise
 
+---
 ## LambdaMART
 
 [链接](http://blog.csdn.net/huagong_adu/article/details/40710305)
