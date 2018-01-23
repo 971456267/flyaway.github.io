@@ -1,14 +1,16 @@
 ---
 layout:	post
 title:	RankLib
-date:	2017-12-07
+date:	2018-01-23
 categories:	信息检索,推荐
 tags:	Learning to rank
 
 ---
 ## RankLib
 [链接](https://sourceforge.net/p/lemur/wiki/RankLib/)
+
 ### overview
+
 RankLib是一个使用java实现的Learning to rank的算法库，主要实现了以下几种算法:
 1. MART (Multiple Additive Regression Trees, a.k.a. Gradient boosted regression tree 
 2. RankNet,pair-wise
@@ -19,6 +21,7 @@ RankLib是一个使用java实现的Learning to rank的算法库，主要实现�
 7. ListNet, list-wise
 8. Random Forests
 RankLib同时也实现了信息检索领域的评测函数，MAP，NDCG.
+
 ### data Format
 <line> .=. <target> qid:<qid> <feature>:<value> <feature>:<value> ... <feature>:<value> # <info>
 <target> .=. <positive integer>
@@ -29,15 +32,23 @@ RankLib同时也实现了信息检索领域的评测函数，MAP，NDCG.
 
 ## Learn to Rank
 [链接](https://liam0205.me/2016/07/10/a-not-so-simple-introduction-to-lambdamart/)
+
 LTR 算法通常有三种手段，分别是：Pointwise、Pairwise 和 Listwise。Pointwise 和 Pairwise 类型的 LTR 算法，将排序问题转化为回归、分类或者有序分类问题。Listwise 类型的 LTR 算法则另辟蹊径，将用户查询（Query）所得的结果作为整体，作为训练用的实例（Instance）
+
 ### pointwise
+
 ### pairwise
+
 ### Listwise
 
 ## LambdaMART
+
 [链接](http://blog.csdn.net/huagong_adu/article/details/40710305)
+
 1. LambdaMART是Learning To Rank的其中一个算法，适用于许多排序场景。它是微软Chris Burges大神的成果，最近几年非常火，屡次现身于各种机器学习大赛中，Yahoo! Learning to Rank Challenge比赛中夺冠队伍用的就是这个模型[1]，据说Bing和Facebook使用的也是这个模型。
+
 2. LambdaMART模型从名字上可以拆分成Lambda和MART两部分，表示底层训练模型用的是MART（Multiple Additive Regression Tree），如果MART看起来比较陌生，那换成GBDT（GradientBoosting Decision Tree）估计大家都很熟悉了，没错，MART就是GBDT。Lambda是MART求解过程使用的梯度，其物理含义是一个待排序的文档下一次迭代应该排序的方向（向上或者向下）和强度。将MART和Lambda组合起来就是我们要介绍的LambdaMART。Lambda就是用户自定义的梯度
+
 3. lambdaMART优势：
 1)  适用于排序场景：不是传统的通过分类或者回归的方法求解排序问题，而是直接求解
 
