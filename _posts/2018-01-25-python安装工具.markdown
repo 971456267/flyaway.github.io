@@ -1,0 +1,36 @@
+---
+layout:	post
+title:	RankLib
+date:	2018-01-25
+categories:	python
+tags:	python
+
+---
+    我们知道python有在线安装和离线安装方式，我们可以使用pip install 模块名，也可使用 python setup.py install。
+前者是使用在线安装，会安装该包的相关依赖包；后者是下载源码包在本地安装，不会安装相关的依赖；
+
+---
+## 在线安装方式
+    pip install 模块名，直接安装，方便，但是不可以将其当作命令在命令行中使用，一般是都是在编写的python脚本文
+件中import 模块名，然后使用该模块里面的函数、类等。pip主要安装在xxx\python\site-packages或者是xxx\python\
+dist-packages目录下。
+    pip 是从PyPi上进行安装，PyPi是python 官网上第三方库的仓库，所有人都可以下载第三方库或上传自己开发的库到Pypi。
+关于如何在pypi上发布自己开发的库资料很多，主要是将自己的包your_model打包上传到PyPi上，供别人下载，其他人使用pip 
+install your_model 即可安装
+
+---
+## 离线安装方式
+    python setup.py install会将编写的模块打包成.exe的文件安装到python的全局执行路径xxx\python\Scripts下，
+假设我们在setup.py里里面设置了工具包的名称为deepwalk，那么在xxx\python\Scripts路径下会有deepwalk.exe文件，
+我们在命令行的模型下可以直接使用deepwalk命令。当然在xxx\python\site-packages或者是xxx\python\dist-packages
+也存在，既可以使用import 模块名的方式使用。
+
+
+---
+##参考博文
+https://www.cnblogs.com/maociping/p/6633948.html
+https://www.cnblogs.com/kevin922/p/3161411.html
+https://www.cnblogs.com/sting2me/p/6550897.html
+
+
+
