@@ -13,7 +13,7 @@ tags:	python
 ## 在线安装方式
 　　pip install 模块名，直接安装，方便，但是不可以将其当作命令在命令行中使用，一般是都是在编写的python脚本文
 件中import 模块名，然后使用该模块里面的函数、类等。pip主要安装在xxx\python\site-packages或者是xxx\python\
-dist-packages目录下。</br>
+dist-packages目录下。  
 　　pip 是从PyPi上进行安装，PyPi是python 官网上第三方库的仓库，所有人都可以下载第三方库或上传自己开发的库到Pypi。
 关于如何在pypi上发布自己开发的库资料很多，主要是将自己的包your_model打包上传到PyPi上，供别人下载，其他人使用pip 
 install your_model 即可安装
