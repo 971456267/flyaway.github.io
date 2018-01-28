@@ -43,7 +43,6 @@ Graph Representation Learningz（GRL）中文可称之为图特征学习或者�
 ## GraphGAN
 
 ### motivation
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?c </script>
 
 $$\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$$
 
