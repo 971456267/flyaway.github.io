@@ -37,7 +37,8 @@ Graph Representation Learningz（GRL）中文可称之为图特征学习或者�
 ## GraphGAN
 
 ### motivation
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js config=TeX-AMS-MML_HTMLorMML">
+<script type="text/javascript"
+   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
  $$n=x$$
 
