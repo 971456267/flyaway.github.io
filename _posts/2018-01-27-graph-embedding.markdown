@@ -1,12 +1,3 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-    <script type="text/javascript"
-    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    </script>
-</head>
-<body>
-
 ---
 layout:	post
 title:	Graph Representation Learning
@@ -53,7 +44,3 @@ $$\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$$
 
 ## 参考博文
 [参考博文链接](https://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&mid=2649442783&idx=1&sn=7263a483b50ac01ca29c8ee07caa852b&chksm=82c0a05bb5b7294d7bfa8b1d5522a21cc126825f3eeb0428c7551452b0437e13182d102b0945&mpshare=1&scene=1&srcid=0126soOPoxQ7XHZLcdoczNaO&pass_ticket=yIy0ZoUQtNvMGxVSUAzPrkUXE%2BtaloSw5d%2F5cftsrC9vmz0LNCmm3kltg%2BCwHthI#rd)
-
-
-</body>
-</html>
