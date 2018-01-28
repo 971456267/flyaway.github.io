@@ -1,3 +1,9 @@
+
+<head>
+<title>MathJax AsciiMath Test Page</title>
+<script type="text/javascript"
+  src="../MathJax.js?config=AM_HTMLorMML-full"></script>
+</head>
 ---
 layout:	post
 title:	Graph Representation Learning
