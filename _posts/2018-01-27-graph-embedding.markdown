@@ -7,7 +7,7 @@ tags:	Embedding
 
 ---
 
-本文根据王鸿伟博士分享整理。　　
+本文根据王鸿伟博士分享整理，参考博文在文末~　　
 ## 概述
 Graph Representation Learningz（GRL）中文可称之为图特征学习或者网络特征学习，其主要目的在于，将图中每个节点
 映射到一个低维向量空间，并且在此空间保持原有图的结构或者距离信息。其应用十分广泛，它可以被用于链路预测，
@@ -32,14 +32,12 @@ Graph Representation Learningz（GRL）中文可称之为图特征学习或者�
 4. self-defined loss: Maximizing edge reconstruction probability, Minimizing distance-based loss, Minimizing margin-based ranking loss(这种方法常见于知识图谱)
 
 ## 表示学习方法演变
-<img src="/assets/images/fengmian.jpeg">
+<img src="/assets/images/represent_work.webp" height = '100',width = '150'>
 
 ## GraphGAN
 
 ## 参考博文
-https://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&mid=2649442783&idx=1&sn=7263a483b50ac01ca29c8ee07caa852b
-chksm=82c0a05bb5b7294d7bfa8b1d5522a21cc126825f3eeb0428c7551452b0437e13182d102b0945&mpshare=1&scene=1
-srcid=0126soOPoxQ7XHZLcdoczNaO pass_ticket=yIy0ZoUQtNvMGxVSUAzPrkUXE%2BtaloSw5d%2F5cftsrC9vmz0LNCmm3kltg%2BCwHthI#rd
+https://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&mid=2649442783&idx=1&sn=7263a483b50ac01ca29c8ee07caa852b&chksm=82c0a05bb5b7294d7bfa8b1d5522a21cc126825f3eeb0428c7551452b0437e13182d102b0945&mpshare=1&scene=1&srcid=0126soOPoxQ7XHZLcdoczNaO&pass_ticket=yIy0ZoUQtNvMGxVSUAzPrkUXE%2BtaloSw5d%2F5cftsrC9vmz0LNCmm3kltg%2BCwHthI#rd
 
 
 
