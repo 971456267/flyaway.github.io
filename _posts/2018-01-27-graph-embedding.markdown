@@ -32,12 +32,14 @@ Graph Representation Learningz（GRL）中文可称之为图特征学习或者�
 4. self-defined loss: Maximizing edge reconstruction probability, Minimizing distance-based loss, Minimizing margin-based ranking loss(这种方法常见于知识图谱)
 
 ## 表示学习方法演变
-![](./640.webp)
+![](/assets/images/fengmian.jpeg)
 
 ## GraphGAN
 
 ## 参考博文
-https://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&mid=2649442783&idx=1&sn=7263a483b50ac01ca29c8ee07caa852b&chksm=82c0a05bb5b7294d7bfa8b1d5522a21cc126825f3eeb0428c7551452b0437e13182d102b0945&mpshare=1&scene=1&srcid=0126soOPoxQ7XHZLcdoczNaO&pass_ticket=yIy0ZoUQtNvMGxVSUAzPrkUXE%2BtaloSw5d%2F5cftsrC9vmz0LNCmm3kltg%2BCwHthI#rd
+https://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&mid=2649442783&idx=1&sn=7263a483b50ac01ca29c8ee07caa852b
+chksm=82c0a05bb5b7294d7bfa8b1d5522a21cc126825f3eeb0428c7551452b0437e13182d102b0945&mpshare=1&scene=1
+srcid=0126soOPoxQ7XHZLcdoczNaO pass_ticket=yIy0ZoUQtNvMGxVSUAzPrkUXE%2BtaloSw5d%2F5cftsrC9vmz0LNCmm3kltg%2BCwHthI#rd
 
 
 
