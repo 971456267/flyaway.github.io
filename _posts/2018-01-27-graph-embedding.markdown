@@ -36,8 +36,14 @@ Graph Representation Learningz（GRL）中文可称之为图特征学习或者�
 
 ## GraphGAN
 
+### motivation
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js config=TeX-AMS-MML_HTMLorMML">
+</script>
+ $$n=x$$
+
+1. generative graph representation通过假设潜在真实的连接
 ## 参考博文
-[链接](https://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&mid=2649442783&idx=1&sn=7263a483b50ac01ca29c8ee07caa852b&chksm=82c0a05bb5b7294d7bfa8b1d5522a21cc126825f3eeb0428c7551452b0437e13182d102b0945&mpshare=1&scene=1&srcid=0126soOPoxQ7XHZLcdoczNaO&pass_ticket=yIy0ZoUQtNvMGxVSUAzPrkUXE%2BtaloSw5d%2F5cftsrC9vmz0LNCmm3kltg%2BCwHthI#rd)
+[参考博文链接](https://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&mid=2649442783&idx=1&sn=7263a483b50ac01ca29c8ee07caa852b&chksm=82c0a05bb5b7294d7bfa8b1d5522a21cc126825f3eeb0428c7551452b0437e13182d102b0945&mpshare=1&scene=1&srcid=0126soOPoxQ7XHZLcdoczNaO&pass_ticket=yIy0ZoUQtNvMGxVSUAzPrkUXE%2BtaloSw5d%2F5cftsrC9vmz0LNCmm3kltg%2BCwHthI#rd)
 
 
 
