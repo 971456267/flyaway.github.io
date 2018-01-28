@@ -39,6 +39,8 @@ Graph Representation Learningz（GRL）中文可称之为图特征学习或者�
 ### motivation
 1. generative graph representation通过假设节点之间真实的连接
 
+\[ f(x) =\begin{cases}1 & \text{for } x\geq0\\0 & \text{for } x<0\end{cases} \]
+
 $$\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$$
 
 ## 参考博文
