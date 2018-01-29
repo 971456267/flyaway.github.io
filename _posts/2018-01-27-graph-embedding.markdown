@@ -36,10 +36,7 @@ Graph Representation Learningz（GRL）中文可称之为图特征学习或者�
 
 ## GraphGAN
 
-### motivation
-1. generative graph representation通过假设节点之间真实的连接
-
-$$\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$$
+没有学会插入公式，直接看原博文吧.
 
 
 ## 参考博文
