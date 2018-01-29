@@ -50,18 +50,22 @@ tags:	GAN
 
 ## 其他方面的应用
 
-目前为止GAN已经没被应用到CV,NLP,Speech等领域，在工程方面，很多推荐、信息检索方面（IRGAN）的论文也在尝试使用GAN。还有关于在graph-embedding方面（GraphGAN）使用GAN。
+目前为止GAN已经没被应用到CV,NLP,Speech等领域，在工程方面，很多推荐、信息检索方面（IRGAN）的论文[8]也在尝试使用GAN。还有关于在graph-embedding方面（GraphGAN）使用GAN。
 
 ## 学习
 看一两个实现GAN的代码，理解一下GAN是如何应用的。
+1. github地址:https://github.com/openai/improved-gan,文献[2]  
+2. https://github.com/oyam/Semantic-Segmentation-using-Adversarial-Networks,文献[3]  
+3. https://github.com/geek-ai/irgan, 文献[8]
 
 ## 参考文献
 [1] Generative Adversarial Nets, Ian J. Goodfellow.  
-[2] Improved Techniques for Training GANs. Tim Salimans, Ian Goodfellow.  
+[2] Improved Techniques for Training GANs. Tim Salimans, Ian Goodfellow.
 [3] Semantic Segmentation using Adversarial Networks. Pauline Luc.  
 [4] http://blog.csdn.net/shenxiaolu1984/article/details/75736407.  
 [5] http://blog.csdn.net/diligent_321/article/details/55224631.  
 [6] http://blog.csdn.net/pjia_1008/article/details/77096618.  
 [7] http://blog.geohey.com/ji-suan-ji-shi-jue-zhi-yu-yi-fen-ge/.
+[8] IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models
 
 
