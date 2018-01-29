@@ -58,12 +58,12 @@ tags:	GAN
 看一两个实现GAN的代码，理解一下GAN是如何应用的。
 
 ## 参考文献
-[1] Generative Adversarial Nets, Ian J. Goodfellow. 　　
-[2] Improved Techniques for Training GANs. Tim Salimans, Ian Goodfellow.　　
-[3] Semantic Segmentation using Adversarial Networks. Pauline Luc.　　
-[4] http://blog.csdn.net/shenxiaolu1984/article/details/75736407.　　
-[5] http://blog.csdn.net/diligent_321/article/details/55224631.　　
-[6] http://blog.csdn.net/pjia_1008/article/details/77096618.　　
+[1] Generative Adversarial Nets, Ian J. Goodfellow.  
+[2] Improved Techniques for Training GANs. Tim Salimans, Ian Goodfellow.  
+[3] Semantic Segmentation using Adversarial Networks. Pauline Luc.  
+[4] http://blog.csdn.net/shenxiaolu1984/article/details/75736407.  
+[5] http://blog.csdn.net/diligent_321/article/details/55224631.  
+[6] http://blog.csdn.net/pjia_1008/article/details/77096618.  
 [7] http://blog.geohey.com/ji-suan-ji-shi-jue-zhi-yu-yi-fen-ge/.
 
 
