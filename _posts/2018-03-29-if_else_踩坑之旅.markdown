@@ -1,0 +1,34 @@
+---
+layout:	post
+title:	python踩坑
+date:	2018-01-25
+categories:	python
+tags:	python
+
+---
+
+    今天写代码踩到一个关于if-else的巨坑。。。代码如下:  
+    func()函数就是将如果 list A 中的元素满足condition 则将元素替换成b,否则不变  
+    实现一  
+    def func(A,b):
+        res = []
+        for it in A:
+            if it == condition：
+                it = b
+            res.append(it)
+        return res  
+
+    
+    实现二  
+    def func(A,b):
+        res = []
+        for it in A:
+            if it == condition：
+                res.append(b)
+            else:
+                res.append(it)
+        return res  
+
+    实现二会快很多很多很多很多。。。    
+
+    
