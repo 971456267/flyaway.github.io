@@ -1,0 +1,20 @@
+---
+layout:	post
+title:	kaldi初试
+date:	2018-05-07
+categories:	kaldi
+tags:	kaldi
+
+---
+## 安装
+
+---
+## 训练
+1. 训练thchs30
+2. 进入kaldi-trunk/egs/thchs30
+3. 根据th
+
+---
+## 在线测试
+https://blog.csdn.net/lijin6249/article/details/51838936
+    
