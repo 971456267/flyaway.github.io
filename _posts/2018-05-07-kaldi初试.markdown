@@ -7,14 +7,26 @@ tags:	kaldi
 
 ---
 ## 安装
+1. git clone https://github.com/kaldi-asr/kaldi.git kaldi-trunk --origin golden
+2. cd kaldi-trunk
+3. cd tool
+4. make -j 4
+5. cd ..
+6. cd src
+7. ./configure
+8. make depend -j 4
+9. make -j 4
 
 ---
 ## 训练
 1. 训练thchs30
 2. 进入kaldi-trunk/egs/thchs30
-3. 根据th
+3. 根据README.txt 下载数据
+4. 保存数据到固定的目录
+5. 改run.sh文件中数据的目录
+5. 运行run.sh
 
 ---
-## 在线测试
+## 根据训练好的模型在线测试
 https://blog.csdn.net/lijin6249/article/details/51838936
     
