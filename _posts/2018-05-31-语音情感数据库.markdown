@@ -1,0 +1,16 @@
+---
+layout:	post
+title:	语音情感数据库
+date:	2018-05-31
+categories:	语音情感数据库
+tags:	语音情感数据库
+
+---
+## 语音情感数据库
+1. CASIA
+2. EmoDB
+3. RECOLA
+4. FAU AIBO
+5. eNTERFACE，多模态
+6. IEMOCAP，多模态 
+    
