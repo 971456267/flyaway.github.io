@@ -2,7 +2,7 @@
 layout: post
 title:  2019新年
 date:   2019-01-01
-categories: Happy New Year
+categories: Happy-New-Year
 tags: 
 description: 新年快乐呀~
 ---
