@@ -3,7 +3,7 @@ layout:	post
 title:	RankLib
 date:	2018-01-23
 categories:	信息检索,推荐
-tags:	Learning to rank
+tags:	Learning_to_rank
 
 ---
 ## RankLib
